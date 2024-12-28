@@ -1,6 +1,6 @@
 # CELPIP Writing Task Evaluator
 
-A Generative AI application built to help users practice and evaluate their CELPIP writing tasks according to the official guidelines/rubric prescribed by CELPIP
+A Generative AI application built to help users practice and evaluate their CELPIP writing tasks according to the official guidelines/rubric prescribed by CELPIP.
 
 ## Features
 

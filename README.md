@@ -28,8 +28,8 @@ A Generative AI application built to help users practice and evaluate their CELP
 
 - **Frontend**: Streamlit
 - **AI Integration**: Groq API
-- **Language Model**: LLaMA 3.3 70B Versatile
-- **Additional Tools**: LangChain
+- **Large Language Model**: LLaMA 3.3 70B Versatile
+- **Additional Tools**: LangChain and Python 
 
 ## Features in Detail
 

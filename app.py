@@ -7,13 +7,13 @@ import time
 
 load_dotenv()
 
-api_key = os.getenv("GROQ_API_KEY")
+api_key = st.secrets["GROQ_API_KEY"]
 client = Groq(api_key=api_key)
 
-LANGCHAIN_API_KEY= os.getenv("LANGCHAIN_API_KEY")
+LANGCHAIN_API_KEY= st.secrets["LANGCHAIN_API_KEY"]
 LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
 LANGCHAIN_TRACING_V2 = "true"
-LANGCHAIN_PROJECT = os.getenv("LANGCHAIN_PROJECT")
+LANGCHAIN_PROJECT = st.secrets["LANGCHAIN_PROJECT"]
 
 # Initialize session state
 if 'time_remaining' not in st.session_state:

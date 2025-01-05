@@ -49,7 +49,7 @@ A Generative AI application built to help users practice and evaluate their CELP
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-
+**You can also watch the full demo video of the tool here:**
 [Demo Video]( https://drive.google.com/file/d/1STpzSbeNAGqOUFyd107b8m2v_3cm6i_q/view?usp=drive_link)
 ## User Interface:
 <img width="1470" alt="Screenshot 2025-01-03 at 12 51 28 AM" src="https://github.com/user-attachments/assets/0e7c3f68-396a-4b7e-a84d-ebb36d3f5599" />

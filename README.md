@@ -45,7 +45,7 @@ A Generative AI application built to help users practice and evaluate their CELP
 - Interactive text input areas
 - Immediate evaluation feedback
 
-## Contributing
+## Contributions
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 

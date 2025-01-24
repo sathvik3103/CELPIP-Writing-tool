@@ -1,7 +1,7 @@
 # CELPIP Writing Task Evaluator
 
 A Generative AI application built to help users practice and evaluate their CELPIP writing tasks according to the official guidelines/rubric prescribed by CELPIP.
-# Use the tool at:[ https://celpip-writing-tool.streamlit.app/]
+## Use the tool at: https://celpip-writing-tool.streamlit.app/
 
 
 **You can also watch the full demo video of the tool here:**
